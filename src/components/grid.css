@@ -1,0 +1,10 @@
+button {
+    width: 20%;
+    height: 50px;
+}
+
+.game {
+    padding: 300px;
+    display: flex;
+    justify-content:space-between;
+}
